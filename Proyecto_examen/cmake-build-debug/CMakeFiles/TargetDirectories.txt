@@ -1,0 +1,3 @@
+C:/Users/Francisco/CLionProjects/Proyecto_examen/cmake-build-debug/CMakeFiles/Proyecto_examen.dir
+C:/Users/Francisco/CLionProjects/Proyecto_examen/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Francisco/CLionProjects/Proyecto_examen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
